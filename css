@@ -1,0 +1,17 @@
+body {
+  margin: 20px;#meuBotao {
+      background-color: blue; /* Cor inicial */
+      color: white;
+      padding: 10px 20px;
+      cursor: pointer;
+      border: none;
+    }
+
+    #meuBotao:hover {
+      background-color: darkblue; /* Cor ao passar o mouse */
+    }
+
+    #meuBotao:active {
+      background-color: lightblue; /* Cor ao clicar */
+    }
+}
